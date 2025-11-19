@@ -2,7 +2,7 @@
 Focused study and practice in the use of Jest for automated JavaScript testing.
 
 ## Features
-- Simple JavaScript tasks designed for unit testing via Jest
+Simple JavaScript tasks designed for unit testing via Jest
 
 ## Installation
 1. Clone the repository
